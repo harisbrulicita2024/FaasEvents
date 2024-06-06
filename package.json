@@ -1,0 +1,19 @@
+{
+  "name": "adsdsdsadsad",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.585.0",
+    "@aws-sdk/lib-dynamodb": "^3.585.0",
+    "aws-crt": "^1.21.2",
+    "express": "^4.19.2",
+    "serverless-dynamodb-local": "^0.2.40",
+    "serverless-http": "^3.2.0"
+  },
+  "devDependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "serverless-offline": "^13.6.0",
+    "serverless-plugin-common-excludes": "^4.0.0",
+    "serverless-plugin-include-dependencies": "^6.1.0"
+  }
+}
